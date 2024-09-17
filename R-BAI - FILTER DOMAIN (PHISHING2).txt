@@ -1,0 +1,42 @@
+import csv
+
+ restricted_domains = [
+    "secure-for-sure.com",
+    "suspicious-domain.net",
+    "fakeemail.org"
+]
+
+ def extract_domain(email):
+    return email.split('@')[-1]
+
+ def is_phishing_email(sender_email, restricted_domains):
+    domain = extract_domain(sender_email)
+    return domain in restricted_domains
+
+ def filter_emails(input_csv, output_csv, restricted_domains):
+    filtered_emails = []
+
+    with open(input_csv, mode='r') as infile:
+        reader = csv.DictReader(infile)
+        
+        for row in reader:
+            sender_email = row['From']
+            if not is_phishing_email(sender_email, restricted_domains):
+                filtered_emails.append(row)
+    
+     with open(output_csv, mode='w', newline='') as outfile:
+        fieldnames = ['From', 'To', 'Subject', 'Date', 'Body']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        
+        writer.writeheader()
+        for email in filtered_emails:
+            writer.writerow(email)
+
+ def main():
+    input_csv = 'emails.csv'  
+    output_csv = 'filtered_emails.csv'  
+
+    filter_emails(input_csv, output_csv, restricted_domains)
+
+if __name__ == "__main__":
+    main()

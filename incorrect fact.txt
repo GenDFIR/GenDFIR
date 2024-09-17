@@ -1,0 +1,2 @@
+unauthorized access incorrect facts:
+event 4627 mentioned in TA report, but does not exist in the knowledge base.

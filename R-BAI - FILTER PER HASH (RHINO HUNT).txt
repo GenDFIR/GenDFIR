@@ -1,0 +1,55 @@
+import csv
+from tkinter import Tk
+from tkinter.filedialog import askopenfilename, asksaveasfilename
+
+def load():
+    Tk().withdraw() 
+    filename = askopenfilename(filetypes=[("CSV files", "*.csv")], title="Select CSV File")
+    if filename:
+        return filename
+    else:
+        raise FileNotFoundError("No file selected.")
+
+def save():
+    Tk().withdraw()  
+    filename = asksaveasfilename(defaultextension=".csv", filetypes=[("CSV files", "*.csv")], title="Save Filtered CSV")
+    if filename:
+        return filename
+    else:
+        raise FileNotFoundError("No file selected.")
+
+def hashes(target_csv):
+    target = set()
+    with open(target_csv, 'r') as infile:
+        reader = csv.reader(infile)
+        next(reader)  # Skip the header row
+        for row in reader:
+            target.add(row[0].strip())   
+    return target
+
+def filter(input_csv, output_csv, target_hashes):
+    with open(input_csv, 'r') as infile:
+        reader = csv.reader(infile)
+        with open(output_csv, 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerow(["File", "SHA-256"])  # Write header
+            for row in reader:
+                if row[1] in target_hashes:
+                    writer.writerow(row)
+
+def main():
+    print("Select the CSV file containing target hashes:")
+    target_file = load()
+    
+    print("Select the CSV file to filter:")
+    input_file = load()
+    
+    print("Select where to save the filtered CSV file:")
+    output_file = save()
+
+    target_hashes = hashes(target_file)
+    filter(input_file, output_file, target_hashes)
+    print(f"Filtered results have been saved to {output_file}")
+
+if __name__ == "__main__":
+    main()

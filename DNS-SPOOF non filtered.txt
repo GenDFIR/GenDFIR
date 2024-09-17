@@ -1,0 +1,33 @@
+Event ID: 7124, Details: Unusual network response pattern, Level: Error, Date and Time: 08/01/2024 15:43:21, Source: Intrusion Detection System, Task Category: Threat Detection.
+Event ID: 8921, Details: Anomalous IP returned in DNS query, Level: Warning, Date and Time: 08/01/2024 13:12:05, Source: DNS Server, Task Category: Query Response.
+Event ID: 5429, Details: Network packet inconsistency, Level: Critical, Date and Time: 08/01/2024 16:55:40, Source: Network Firewall, Task Category: Suspicious Traffic.
+Event ID: 3302, Details: Multiple DNS queries with delayed responses, Level: Warning, Date and Time: 08/01/2024 10:24:11, Source: Intrusion Detection System, Task Category: Network Performance.
+Event ID: 1203, Details: Outbound traffic to unexpected server, Level: Error, Date and Time: 08/01/2024 18:32:45, Source: DNS Server, Task Category: Unusual Traffic.
+Event ID: 6708, Details: Increased latency in DNS requests, Level: Warning, Date and Time: 08/01/2024 11:46:22, Source: Web Proxy, Task Category: Performance Degradation.
+Event ID: 1025, Details: Irregular TTL values in DNS response, Level: Warning, Date and Time: 08/01/2024 14:03:15, Source: DNS Server, Task Category: Data Integrity.
+Event ID: 8431, Details: High volume of DNS query retries, Level: Critical, Date and Time: 08/01/2024 09:17:52, Source: Network Firewall, Task Category: Traffic Anomaly.
+Event ID: 2910, Details: Unexpected DNS response source, Level: Warning, Date and Time: 08/01/2024 17:40:30, Source: Intrusion Detection System, Task Category: Unauthorised Access.
+Event ID: 5008, Details: Mismatched domain resolution, Level: Error, Date and Time: 08/01/2024 12:22:45, Source: DNS Server, Task Category: Data Corruption.
+Event ID: 3945, Details: DNS response time exceeds threshold, Level: Warning, Date and Time: 08/01/2024 16:15:05, Source: Network Monitor, Task Category: Latency Alert.
+Event ID: 7810, Details: Unexpected DNS record returned, Level: Error, Date and Time: 08/01/2024 13:55:22, Source: DNS Server, Task Category: Query Handling.
+Event ID: 2109, Details: Sudden increase in external DNS queries, Level: Critical, Date and Time: 08/01/2024 11:07:36, Source: Network Firewall, Task Category: Traffic Anomaly.
+Event ID: 4352, Details: DNS traffic spike to unrecognised destination, Level: Warning, Date and Time: 08/01/2024 19:45:10, Source: Intrusion Detection System, Task Category: Suspicious Activity.
+Event ID: 6820, Details: Response from non-primary DNS server, Level: Error, Date and Time: 08/01/2024 10:05:33, Source: DNS Server, Task Category: Configuration Deviation.
+Event ID: 1038, Details: DNS resolution timeout for key services, Level: Critical, Date and Time: 08/01/2024 20:25:14, Source: Network Monitor, Task Category: Service Outage.
+Event ID: 5697, Details: DNS query directed to unexpected region, Level: Warning, Date and Time: 08/01/2024 14:59:40, Source: Web Proxy, Task Category: Geographic Discrepancy.
+Event ID: 4902, Details: Inconsistent DNS query response pattern, Level: Error, Date and Time: 08/01/2024 12:11:28, Source: Intrusion Detection System, Task Category: Threat Detection.
+Event ID: 6341, Details: Suspicious redirection detected, Level: Warning, Date and Time: 08/01/2024 17:09:50, Source: DNS Server, Task Category: Suspicious Traffic.
+Event ID: 7723, Details: DNS query redirected to unfamiliar domain, Level: Critical, Date and Time: 08/01/2024 18:18:00, Source: Intrusion Detection System, Task Category: Malicious Activity.
+Event ID: 8032, Details: Normal DNS response rate, Level: Information, Date and Time: 08/01/2024 13:00:00, Source: DNS Server, Task Category: Health Check.
+Event ID: 8491, Details: System reboot detected, Level: Information, Date and Time: 08/01/2024 09:30:00, Source: System Monitor, Task Category: System Reboot.
+Event ID: 9203, Details: Log rotation completed, Level: Information, Date and Time: 08/01/2024 10:10:00, Source: System Monitor, Task Category: Maintenance.
+Event ID: 8910, Details: Service restarted unexpectedly, Level: Information, Date and Time: 08/01/2024 09:45:00, Source: Service Monitor, Task Category: Service Status.
+Event ID: 1034, Details: System configuration update, Level: Information, Date and Time: 08/01/2024 10:55:00, Source: Configuration Manager, Task Category: Configuration Update.
+Event ID: 2056, Details: Backup completed successfully, Level: Information, Date and Time: 08/01/2024 11:20:00, Source: Backup System, Task Category: Backup.
+Event ID: 3071, Details: Security policy applied, Level: Information, Date and Time: 08/01/2024 12:05:00, Source: Security Policy Manager, Task Category: Policy Application.
+Event ID: 4123, Details: User login from new device, Level: Information, Date and Time: 08/01/2024 12:45:00, Source: Authentication Server, Task Category: Login.
+Event ID: 5412, Details: Network link established, Level: Information, Date and Time: 08/01/2024 13:30:00, Source: Network Interface, Task Category: Link Status.
+Event ID: 6321, Details: File system integrity check completed, Level: Information, Date and Time: 08/01/2024 14:15:00, Source: File System Monitor, Task Category: Integrity Check.
+Event ID: 7421, Details: User logout detected, Level: Information, Date and Time: 08/01/2024 15:00:00, Source: Authentication Server, Task Category: Logout.
+Event ID: 8125, Details: Hardware diagnostic completed, Level: Information, Date and Time: 08/01/2024 15:45:00, Source: Hardware Monitor, Task Category: Diagnostic.
+Event ID: 9041, Details: Service patch applied successfully, Level: Information, Date and Time: 08/01/2024 16:30:00, Source: Update Manager, Task Category: Patch Management.

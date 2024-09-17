@@ -1,0 +1,12 @@
+Data Exfiltration and Illegal Possession of Images:
+
+Rule: Possession of images with the following metadata will be subject to legal action:
+
+Camera Model: Canon EOS-1D X Mark III
+Camera Identifier: E11223344556
+Artist: Joe Smith
+Date Range: Between May 1, 2016, and July 1, 2016
+Copyright: 2001 - For All Animals
+Description: This scenario involves the illegal exfiltration of copyrighted animal images from the FTP server of Animal Photo. On June 6, 2020, between 10 AM and 11:30 AM, an unauthorized individual accessed the company’s network and exfiltrated twelve protected images. The investigation traced the source of the exfiltration to a device named Emily-Stan-Laptop within the company's internal network. The destination IP address of the stolen data was 203.0.113.5, which was registered under the name Rose Judy. Further analysis revealed that the actual user associated with this IP address was Will Judy, Rose Judy's son.
+
+The forensic investigation on Will Judy’s device uncovered fifty professional animal photographs, twelve of which matched the stolen images from Animal Photo. These images were verified through hash values to confirm their proprietary nature. The metadata for the images indicated that they were captured by a Canon EOS-1D X Mark III camera, with the identifier E11223344556, and were created by the artist Joe Smith between May 1, 2016, and July 1, 2016, with a copyright attributed to "For All Animals.

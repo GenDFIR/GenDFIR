@@ -1,0 +1,32 @@
+Based on the provided context and analysis of digital artefacts, I can identify evidence related to a rhino and provide mitigation solutions.
+**Evidence Identification:**
+* The following images feature a rhino: + Event 1 (Image a) + Event 2 (Image b) + Event 3 (Image c) + Event 8 (Image k)
+All these images were transferred from Emily-Stan-Laptop with IP address 192.168.1.10 to an FTP server at IP address 192.0.2.1, then to the Will Device
+with IP address 203.0.113.5 using File Transfer timestamps on June 6, 2020.
+**Timeline Analysis:**
+Based on the timestamp provided in each event, a rough timeline of events can be constructed:
+| Event # | Time Stamp | Action |
+| — | — | — |
+| 1 | 10:08:15 | Image (a) transferred |
+| 2 | 10:22:47 | Image (b) transferred |
+| 3 | 10:34:56 | Image (c) transferred |
+| 4 | 10:45:30 | Image of a cheetah (f) transferred |
+| 5 | 10:56:04 | A green alligator image transferred |
+| 6 | 11:08:23 | Two crocodiles transferred |
+| 7 | 11:20:45 | Elephant and baby elephant transferred |
+| 8 | 11:30:00 | Image (k) of a rhino transferred |
+Based on the timestamp for both Images a and k from Emily-Stan-Laptop, this suggests continuous or connected activity between these instances, involving
+the targeted exfiltration.
+**Correlation of Events:**
+From the timeline constructed above, it is clear that all events listed occurred within minutes of each other. This indicates a high volume of rapid data transfer
+activities taking place from the same system (Emily-Stan-Laptop) and to the same destination device for images featuring animals in various scenarios.
+This might indicate an orchestrated malicious activity possibly exploiting vulnerabilities or misusing privileges related to FTP handling on Emily -Stan-laptop.
+**Mitigation Solutions:**
+1. **Restrict FTP server access**: Only provide necessary rights on the source system to ensure that there are no unauthorized processes capable of
+transferring data without notice.
+2. **Increase auditing capabilities**: Implement monitoring mechanisms or logging systems capable of recording every transfer related to this context to
+enhance visibility and aid in quick incident response if similar activities recur.
+3. Investigate Emily-Stan-Laptop: Run thorough analysis to check for evidence of unauthorized access, malware, or software misuse on the source system
+that could have caused these rapid file transfers.
+These recommendations serve as the first steps towards investigating and addressing the potential security concerns observed during this incident response
+process.

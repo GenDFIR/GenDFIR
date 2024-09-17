@@ -1,0 +1,33 @@
+import pandas as pd
+
+# Load the CSV file into a DataFrame
+def loadcsv(file_path):
+    events_df = pd.read_csv(file_path)
+    return events_df
+
+# Filter events where the level is Critical, Warning, or Error
+def filter(events_df):
+    filtered_events = events_df[events_df['Level'].isin(['Critical', 'Warning', 'Error'])]
+    return filtered_events
+
+
+def save_filtered_events_to_csv(filtered_events_df, output):
+    filtered_events_df.to_csv(output, index=False)
+
+
+def main():
+  
+    input= 'events_dataset.csv'  
+    output = 'filtered_events.csv'  
+
+
+    events_df = loadcsv(input)
+
+    filtered_events = filter_critical_warning_error(events_df)
+
+    save_filtered_events_to_csv(filtered_events, output)
+    print("Filtered events saved to", output)
+
+
+if __name__ == "__main__":
+    main()

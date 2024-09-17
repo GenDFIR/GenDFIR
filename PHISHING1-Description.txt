@@ -1,0 +1,15 @@
+Phishing Emails:
+
+WorldLink prohibits its employees from answering or sending emails outside of trusted domains:
+
+Restrictions: All known domains, such as @hotmail, @gmail, @outlook, etc., are restricted.
+Policy: Urgent emails from untrusted domains are not eligible for response.
+Permitted Communications: Security checks and emails from other legitimate companies are allowed.
+Investigation: All emails during the suspicion period are collected for investigation.
+Description: On August 5, 2024, Michael, a WorldLink employee, encountered a phishing email attack. The emails, sent between 09:15 AM and 05:30 PM, claimed to be from GlobalBank’s security service, attempting to deceive Michael into verifying his account. WorldLink’s policy restricts communication with untrusted domains and allows only verified sources. The investigation involved collecting and categorizing all suspicious emails based on:
+
+Email Domains
+Sender/Receiver Details
+IP Addresses
+Sender and Receiver Sentiment, Context, Content, and Intentions
+Timestamps

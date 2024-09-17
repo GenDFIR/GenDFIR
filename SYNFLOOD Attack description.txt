@@ -1,0 +1,23 @@
+SYNFLOOD Attack:
+
+NetPlus defines the following:
+
+Basic rule: Events with timestamps between 08/01/2024 14:03:25 and 08/01/2024 14:37:20 are considered anomalous and are collected.
+Analysis: These events will undergo thorough analysis by the LLM to identify evidence among non-anomalous (irrelevant) events.
+Description: NetPlus experienced a massive cyber attack that disrupted some of their services. The incident was identified as a Synchronize (SYN) flood attack. The IR team conducted an extensive review of network monitoring systems such as firewalls, network scanners, and Intrusion Detection Systems (IDS) to detect and identify the attack. For further analysis, relevant event logs from the period between 08/01/2024 14:03:25 and 08/01/2024 14:37:20 were collected from several computers and devices. These events are characterized by the following attributes:
+
+Event ID
+Event Details
+Event Level
+Event Timestamp (Date and Time)
+Event Source
+Task Category
+Device
+
+Data Exfiltration and Illegal Possession of Images. & Possession of Images with the Following Metadata Will Be Subject to Legal Action:
+
+\item Camera Model: Canon EOS-1D X Mark III.
+    \item Camera Identifier: E11223344556.
+    \item Artist: Joe Smith.
+    \item Between May 1, 2016, and July 1, 2016.
+    \item Copyright: 2001 - For All Animals.

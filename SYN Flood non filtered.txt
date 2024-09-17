@@ -1,0 +1,48 @@
+Event ID: 2999, Details: High SYN packet activity, Level: Critical, Date and Time: 08/01/2024 13:59:50, Source: Intrusion Detection System, Task Category: Attack Detection.
+Event ID: 3000, Details: Elevated SYN traffic detected, Level: Warning, Date and Time: 08/01/2024 14:00:15, Source: Intrusion Detection System, Task Category: Traffic Monitoring.
+Event ID: 3001, Details: Service interruption detected, impacting network operations, Level: Error, Date and Time: 08/01/2024 14:03:25, Source: Intrusion Detection System, Task Category: Service Interruption.
+Event ID: 3002, Details: Connection established successfully, Level: Information, Date and Time: 08/01/2024 14:03:30, Source: Network Monitor, Task Category: Connection Establishment.
+Event ID: 3003, Details: Unusual network traffic pattern detected, Level: Warning, Date and Time: 08/01/2024 14:05:10, Source: Intrusion Detection System, Task Category: Traffic Analysis.
+Event ID: 3004, Details: Routine network scan completed, Level: Information, Date and Time: 08/01/2024 14:06:00, Source: Network Scanner, Task Category: Network Scanning.
+Event ID: 3005, Details: High volume of SYN packets detected, Level: Critical, Date and Time: 08/01/2024 14:07:15, Source: Intrusion Detection System, Task Category: DDoS Attack.
+Event ID: 3006, Details: Connection terminated normally, Level: Information, Date and Time: 08/01/2024 14:08:00, Source: Network Monitor, Task Category: Connection Termination.
+Event ID: 3007, Details: Service disruption due to excessive SYN packets, Level: Error, Date and Time: 08/01/2024 14:09:45, Source: Intrusion Detection System, Task Category: Service Disruption.
+Event ID: 3008, Details: Successful firewall rule update, Level: Information, Date and Time: 08/01/2024 14:10:30, Source: Firewall, Task Category: Firewall Configuration.
+Event ID: 3009, Details: Abnormal SYN packet flood detected, Level: Critical, Date and Time: 08/01/2024 14:11:55, Source: Intrusion Detection System, Task Category: Attack Detection.
+Event ID: 3010, Details: Normal network operation confirmed, Level: Information, Date and Time: 08/01/2024 14:13:00, Source: Network Monitor, Task Category: Network Monitoring.
+Event ID: 3011, Details: Potential SYN flood attack in progress, Level: Warning, Date and Time: 08/01/2024 14:14:20, Source: Intrusion Detection System, Task Category: Attack Prevention.
+Event ID: 3012, Details: Regular network performance check, Level: Information, Date and Time: 08/01/2024 14:15:00, Source: Performance Monitor, Task Category: Performance Analysis.
+Event ID: 3013, Details: Service degradation detected, Level: Error, Date and Time: 08/01/2024 14:16:35, Source: Intrusion Detection System, Task Category: Service Degradation.
+Event ID: 3014, Details: New connection established, Level: Information, Date and Time: 08/01/2024 14:17:50, Source: Network Monitor, Task Category: Connection Establishment.
+Event ID: 3015, Details: Elevated number of SYN requests observed, Level: Critical, Date and Time: 08/01/2024 14:18:45, Source: Intrusion Detection System, Task Category: Attack Monitoring.
+Event ID: 3016, Details: Security policy applied successfully, Level: Information, Date and Time: 08/01/2024 14:20:00, Source: Security Policy Manager, Task Category: Policy Management.
+Event ID: 3017, Details: Possible SYN flood attack, Level: Warning, Date and Time: 08/01/2024 14:21:35, Source: Intrusion Detection System, Task Category: Attack Detection.
+Event ID: 3018, Details: Network configuration updated, Level: Information, Date and Time: 08/01/2024 14:22:50, Source: Network Administrator, Task Category: Configuration Update.
+Event ID: 3019, Details: SYN flood suspected, Level: Error, Date and Time: 08/01/2024 14:24:10, Source: Intrusion Detection System, Task Category: Threat Detection.
+Event ID: 3020, Details: Routine server maintenance completed, Level: Information, Date and Time: 08/01/2024 14:25:00, Source: Server Admin, Task Category: Maintenance.
+Event ID: 3021, Details: Service outage detected due to SYN flood, Level: Critical, Date and Time: 08/01/2024 14:26:45, Source: Intrusion Detection System, Task Category: Outage Detection.
+Event ID: 3022, Details: Network traffic normalized, Level: Information, Date and Time: 08/01/2024 14:28:00, Source: Network Monitor, Task Category: Traffic Monitoring.
+Event ID: 3023, Details: SYN packet volume exceeds threshold, Level: Error, Date and Time: 08/01/2024 14:29:10, Source: Intrusion Detection System, Task Category: Attack Detection.
+Event ID: 3024, Details: Backup operation completed, Level: Information, Date and Time: 08/01/2024 14:30:30, Source: Backup System, Task Category: Backup Operation.
+Event ID: 3025, Details: Abnormal SYN flood pattern, Level: Critical, Date and Time: 08/01/2024 14:31:50, Source: Intrusion Detection System, Task Category: Flood Attack.
+Event ID: 3026, Details: System update applied, Level: Information, Date and Time: 08/01/2024 14:33:00, Source: System Admin, Task Category: System Update.
+Event ID: 3027, Details: Excessive SYN packets detected, Level: Warning, Date and Time: 08/01/2024 14:34:25, Source: Intrusion Detection System, Task Category: Attack Monitoring.
+Event ID: 3028, Details: Network throughput analysis completed, Level: Information, Date and Time: 08/01/2024 14:35:10, Source: Network Analyst, Task Category: Throughput Analysis.
+Event ID: 3029, Details: Service instability due to SYN flood, Level: Error, Date and Time: 08/01/2024 14:36:00, Source: Intrusion Detection System, Task Category: Service Instability.
+Event ID: 3030, Details: Routine network health check, Level: Information, Date and Time: 08/01/2024 14:37:20, Source: Network Health Monitor, Task Category: Health Check.
+Event ID: 3031, Details: Increased SYN traffic detected, Level: Critical, Date and Time: 08/01/2024 14:38:05, Source: Intrusion Detection System, Task Category: Flood Analysis.
+Event ID: 3032, Details: Network analysis post-attack, Level: Information, Date and Time: 08/01/2024 14:39:15, Source: Network Analyst, Task Category: Post-Attack Analysis.
+Event ID: 3033, Details: Minor SYN packet surge observed, Level: Warning, Date and Time: 08/01/2024 14:40:25, Source: Intrusion Detection System, Task Category: Surge Detection.
+Event ID: 3034, Details: Network stability check, Level: Information, Date and Time: 08/01/2024 14:42:00, Source: Network Health Monitor, Task Category: Stability Check.
+Event ID: 3035, Details: SYN packet burst detected, Level: Critical, Date and Time: 08/01/2024 14:43:45, Source: Intrusion Detection System, Task Category: Burst Detection.
+Event ID: 3036, Details: Connection anomaly observed, Level: Warning, Date and Time: 08/01/2024 14:45:00, Source: Network Monitor, Task Category: Anomaly Detection.
+Event ID: 3037, Details: Network performance stabilization, Level: Information, Date and Time: 08/01/2024 14:47:10, Source: Network Analyst, Task Category: Performance Stabilization.
+Event ID: 3038, Details: Increased traffic post-attack, Level: Critical, Date and Time: 08/01/2024 14:48:30, Source: Intrusion Detection System, Task Category: Post-Attack Monitoring.
+Event ID: 3039, Details: SYN flood pattern detected, Level: Warning, Date and Time: 08/01/2024 14:49:45, Source: Intrusion Detection System, Task Category: Pattern Detection.
+Event ID: 3040, Details: Service restoration confirmed, Level: Information, Date and Time: 08/01/2024 14:50:00, Source: Service Team, Task Category: Restoration Confirmation.
+Event ID: 3041, Details: Traffic analysis completed, Level: Information, Date and Time: 08/01/2024 14:52:20, Source: Traffic Analyst, Task Category: Traffic Review.
+Event ID: 3042, Details: SYN traffic decrease observed, Level: Warning, Date and Time: 08/01/2024 14:54:00, Source: Intrusion Detection System, Task Category: Traffic Analysis.
+Event ID: 3043, Details: Network load normalized, Level: Information, Date and Time: 08/01/2024 14:56:30, Source: Network Monitor, Task Category: Load Normalization.
+Event ID: 3044, Details: Final attack analysis report, Level: Information, Date and Time: 08/01/2024 14:58:00, Source: Security Analyst, Task Category: Attack Report.
+Event ID: 3045, Details: Post-attack network health check, Level: Information, Date and Time: 08/01/2024 15:00:00, Source: Network Health Monitor, Task Category: Health Assessment.
+

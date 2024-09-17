@@ -1,0 +1,4 @@
+Date: December 3, 2023
+
+Description: On December 3, 2023, an employee at TechCorp, Jessica Johnson, became the target of a sophisticated phishing attack. The attack involved a series of emails from a domain that appeared to be a legitimate support service, but was actually a fraudulent attempt to steal personal and sensitive information.
+Filter according to domain (see R-BAI , Phishing).

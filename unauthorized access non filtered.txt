@@ -1,0 +1,54 @@
+On 15th September 2016 at 02:15 AM, a mid-sized retail company, RetailWare, detected unauthorised access attempts into its internal database server through its intrusion detection system (IDS). The rule triggering the alarm was designed to monitor any inbound traffic from blacklisted IP addresses known for malicious activity.
+
+The system flagged multiple access attempts from IP address 203.0.113.45, which was not authorised for any legitimate activity within the company's network. These attempts aimed at exploiting the server’s RDP service, which had several known vulnerabilities. The security team immediately began monitoring and collecting logs to assess the breach.
+
+
+Event ID	Level	Task Category	Date/Time	Source
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:15:05, Source: Windows Security, Task Category: Logon.
+Event ID: 4672, Details: Special privileges assigned to new logon, Level: Information, Date and Time: 2016/09/15 02:16:12, Source: Windows Security, Task Category: Logon.
+Event ID: 5038, Details: Integrity of system file failed, Level: Error, Date and Time: 2016/09/15 02:16:37, Source: System, Task Category: System Integrity.
+Event ID: 4723, Details: Attempt to change account password, Level: Warning, Date and Time: 2016/09/15 02:17:05, Source: Windows Security, Task Category: Account Management.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:17:21, Source: Windows Security, Task Category: Logon.
+Event ID: 5156, Details: Allowed connection through the firewall, Level: Information, Date and Time: 2016/09/15 02:17:45, Source: Microsoft-Windows-Security-Auditing, Task Category: Filtering Platform.
+Event ID: 1102, Details: Audit log cleared, Level: Critical, Date and Time: 2016/09/15 02:18:05, Source: Security, Task Category: Audit Logs.
+Event ID: 7040, Details: Service changed from automatic to manual, Level: Information, Date and Time: 2016/09/15 02:18:35, Source: System, Task Category: Service Control Manager.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:18:55, Source: Windows Security, Task Category: Logon.
+Event ID: 4656, Details: Access to object requested, Level: Information, Date and Time: 2016/09/15 02:19:10, Source: Security, Task Category: File System Access.
+Event ID: 4688, Details: New process created, Level: Information, Date and Time: 2016/09/15 02:19:22, Source: Windows Security, Task Category: Process Creation.
+Event ID: 4769, Details: Kerberos service ticket request failed, Level: Warning, Date and Time: 2016/09/15 02:20:12, Source: Security, Task Category: Credential Validation.
+Event ID: 5152, Details: Filter denied packet, Level: Information, Date and Time: 2016/09/15 02:20:45, Source: Microsoft-Windows-Security-Auditing, Task Category: Filtering Platform.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:21:00, Source: Windows Security, Task Category: Logon.
+Event ID: 4738, Details: User account changed, Level: Information, Date and Time: 2016/09/15 02:21:30, Source: Windows Security, Task Category: Account Management.
+Event ID: 4634, Details: Logoff occurred, Level: Information, Date and Time: 2016/09/15 02:22:05, Source: Windows Security, Task Category: Logon.
+Event ID: 4771, Details: Pre-authentication failed, Level: Warning, Date and Time: 2016/09/15 02:22:30, Source: Security, Task Category: Credential Validation.
+Event ID: 4688, Details: New process created, Level: Information, Date and Time: 2016/09/15 02:23:00, Source: Windows Security, Task Category: Process Creation.
+Event ID: 4648, Details: Logon attempt with explicit credentials, Level: Warning, Date and Time: 2016/09/15 02:23:35, Source: Windows Security, Task Category: Logon.
+Event ID: 4724, Details: Password reset attempt, Level: Warning, Date and Time: 2016/09/15 02:24:12, Source: Windows Security, Task Category: Account Management.
+Event ID: 5031, Details: Firewall service encountered an error, Level: Warning, Date and Time: 2016/09/15 02:24:45, Source: Security, Task Category: Firewall.
+Event ID: 4720, Details: User account created, Level: Information, Date and Time: 2016/09/15 02:25:12, Source: Windows Security, Task Category: Account Management.
+Event ID: 4663, Details: An attempt was made to access an object, Level: Information, Date and Time: 2016/09/15 02:26:00, Source: Windows Security, Task Category: Object Access.
+Event ID: 4634, Details: Logoff occurred, Level: Information, Date and Time: 2016/09/15 02:26:30, Source: Windows Security, Task Category: Logon.
+Event ID: 4776, Details: Logon failure due to incorrect credentials, Level: Warning, Date and Time: 2016/09/15 02:27:15, Source: Windows Security, Task Category: Credential Validation.
+Event ID: 4657, Details: Registry access was requested, Level: Information, Date and Time: 2016/09/15 02:28:00, Source: Windows Security, Task Category: Registry Access.
+Event ID: 4624, Details: Logon successful, Level: Information, Date and Time: 2016/09/15 02:28:45, Source: Windows Security, Task Category: Logon.
+Event ID: 4703, Details: Privilege assigned to a new user, Level: Information, Date and Time: 2016/09/15 02:29:12, Source: Windows Security, Task Category: Privilege Assignment.
+Event ID: 4771, Details: Pre-authentication failed, Level: Warning, Date and Time: 2016/09/15 02:30:01, Source: Security, Task Category: Credential Validation.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:30:45, Source: Windows Security, Task Category: Logon.
+Event ID: 4672, Details: Special privileges assigned to new logon, Level: Information, Date and Time: 2016/09/15 02:31:00, Source: Windows Security, Task Category: Logon.
+Event ID: 4723, Details: Attempt to change account password, Level: Warning, Date and Time: 2016/09/15 02:31:55, Source: Windows Security, Task Category: Account Management.
+Event ID: 5038, Details: Integrity of system file failed, Level: Error, Date and Time: 2016/09/15 02:32:07, Source: System, Task Category: System Integrity.
+Event ID: 5156, Details: Allowed connection through the firewall, Level: Information, Date and Time: 2016/09/15 02:32:45, Source: Microsoft-Windows-Security-Auditing, Task Category: Filtering Platform.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:33:15, Source: Windows Security, Task Category: Logon.
+Event ID: 7040, Details: Service changed from automatic to manual, Level: Information, Date and Time: 2016/09/15 02:33:35, Source: System, Task Category: Service Control Manager.
+Event ID: 4648, Details: Logon attempt with explicit credentials, Level: Warning, Date and Time: 2016/09/15 02:34:15, Source: Windows Security, Task Category: Logon.
+Event ID: 4771, Details: Pre-authentication failed, Level: Warning, Date and Time: 2016/09/15 02:34:30, Source: Security, Task Category: Credential Validation.
+Event ID: 1102, Details: Audit log cleared, Level: Critical, Date and Time: 2016/09/15 02:35:00, Source: Security, Task Category: Audit Logs.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:35:12, Source: Windows Security, Task Category: Logon.
+Event ID: 4738, Details: User account changed, Level: Information, Date and Time: 2016/09/15 02:36:00, Source: Windows Security, Task Category: Account Management.
+Event ID: 4776, Details: Logon failure due to incorrect credentials, Level: Warning, Date and Time: 2016/09/15 02:36:15, Source: Windows Security, Task Category: Credential Validation.
+Event ID: 5031, Details: Firewall service encountered an error, Level: Warning, Date and Time: 2016/09/15 02:36:30, Source: Security, Task Category: Firewall.
+Event ID: 5152, Details: Filter denied packet, Level: Information, Date and Time: 2016/09/15 02:37:00, Source: Microsoft-Windows-Security-Auditing, Task Category: Filtering Platform.
+Event ID: 4625, Details: Logon attempt failed, Level: Warning, Date and Time: 2016/09/15 02:37:45, Source: Windows Security, Task Category: Logon.
+Event ID: 4657, Details: Registry access was requested, Level: Information, Date and Time: 2016/09/15 02:38:15, Source: Windows Security, Task Category: Registry Access.
+Event ID: 4624, Details: Logon successful, Level: Information, Date and Time: 2016/09/15 02:38:45, Source: Windows Security, Task Category: Logon.
+Event ID: 4703, Details: Privilege assigned to a new user, Level: Information, Date and Time: 2016/09/15 02:39:00, Source: Windows Security, Task Category: Privilege Assignment.

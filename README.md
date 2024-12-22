@@ -1,4 +1,4 @@
-## GenDFIR👋
+## 🤖 GenDFIR 🤖
 
 This repository contains the case studies from the paper: *"GenDFIR: Advancing Cyber Incident Timeline Analysis Through Retrieval-Augmented Generation and Large Language Models."* 
 

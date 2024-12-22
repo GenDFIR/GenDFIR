@@ -1,4 +1,4 @@
-# Incident Scenario Overview
+# Incident Scenario Overview 🦏
 
 ## Inspiration & Adaptation
 This scenario is inspired by the well-known "Rhino Hunt" from NIST but has been adapted to suit the specific needs of our research.

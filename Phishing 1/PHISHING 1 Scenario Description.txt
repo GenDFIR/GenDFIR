@@ -1,0 +1,21 @@
+Phishing Scenario 1 Description:
+
+
+WorldLink prohibits its employees from responding to or sending emails outside of trusted domains. 
+
+Restrictions: All known public domains, such as @hotmail, @gmail, @outlook, etc., are restricted. 
+
+Policy: Urgent emails from untrusted domains must not be responded to. 
+
+Permitted Communications: Security-approved checks and emails from other verified companies are allowed. 
+
+Investigation: All emails during the suspicion period are gathered for investigation. 
+
+Description: On 5 August 2024, Michael, a WorldLink employee, was targeted by a phishing email attack. 
+
+The emails, sent between 09:15 and 17:30, purported to be from GlobalBank’s security service, attempting to trick Michael into verifying his account. WorldLink’s policy prohibits communication with untrusted domains and permits interactions only with verified sources. The investigation included the collection and classification of all suspicious emails, which were assessed based on: 
+-Email domains 
+-Sender and receiver details: Information about the email addresses and identities involved.
+-IP addresses: Tracking the origin and destination of the emails.
+-Sender and receiver sentiment, context, content, and intent: Information about the email addresses and identities involved.
+-Timestamps: Recording when the emails were sent and received.

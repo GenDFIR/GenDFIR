@@ -1,0 +1,24 @@
+incorrect facts in phishing 2
+   * 11:00 - No event (gap) : emails in this time: 
+Event 8:
+From: Jessica.johnson@techcorp.com
+To: support@secure-domain.com
+Date: 12-03-2023 11:15
+Subject: Re: Urgent: Additional Information Required
+Dear Support Team,
+I have provided the requested information through the link. Please confirm once you have received it.
+Thank you,
+Jessica Johnson /
+Event 9:
+From: support@secure-domain.com
+To: Jessica.johnson@techcorp.com
+Date: 12-03-2023 11:45
+Subject: Re: Urgent: Additional Information Required
+Dear Jessica,
+We have received your additional information. The verification process will be completed shortly. If there are any further requirements, we will contact you.
+Thank you for your patience.
+Warm regards,
+Support Team
+Secure Domain /
+
+   * 16:00 - Event 19: A suspicious request to verify security settings, different in appearance from the rest and raising red flags. : partially incorrect, which is true it happened at 16:00 but the exact time is 16:30

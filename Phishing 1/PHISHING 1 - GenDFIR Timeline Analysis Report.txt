@@ -1,0 +1,29 @@
+**Timeline Analysis:**
+Based on the provided emails, here’s a detailed timeline of events:
+| Time | Event | | — | — | | August 5, 2024, 09:15 AM | GlobalBank Security Team sends an email to Michael Davis (michael.davis@worldlinkmail.com)
+regarding unusual activity on his account and requests verification. |
+| August 5, 2024, 10:00 AM | Michael Davis responds to the email, expressing concern and asking for more details or a direct contact number. |
+| August 5, 2024, 10:45 AM | GlobalBank Security Team sends another email, addressing Michael’s concerns but still asking for verification through a link.
+||
+August 5, 2024, 12:30 PM | Michael Davis responds again, stating that he is not convinced the email is legitimate and will contact official customer service
+instead. |
+| August 5, 2024, 01:30 PM | GlobalBank Customer Service Team receives an email from Michael Davis regarding another suspicious email (Urgent:
+Verification Request). |
+| August 5, 2024, 02:00 PM | GlobalBank Customer Service Team responds to Michael Davis, confirming that the suspicious email is a phishing attempt
+and provides instructions on how to secure his account. |
+| August 5, 2024, 02:15 PM | Michael Davis acknowledges the confirmation from GlobalBank Customer Service Team and disregards the phishing email. |
+**Phishing Attempt Dynamics:**
+The phishing attempt involved:
+1. Initial suspicious email (09:15 AM)
+2. Follow-up emails trying to get Michael to verify his account through a link (10:45 AM, 03:00 PM, and 04:30 PM).
+3. Multiple attempts to pressure Michael into action despite being informed that it’s a phishing attempt
+**Protective Measures Taken:**
+1. Official customer service was contacted for validation.
+2. Michael Davis reported the suspicious emails and sought assistance.
+3. GlobalBank Customer Service Team took steps to address the issue and inform Michael about the phishing attempt.
+**Key Takeaways:**
+1. Phishing attempts can be persistent and sophisticated, trying to instill a sense of urgency to pressure individuals into taking action.
+2. Verification over a link or through unsolicited emails should always raise red flags.
+3. Taking proactive steps to secure one’s account is vital when suspecting a phishing attempt.
+This analysis serves as a cautionary tale about the importance of vigilance and due diligence in protecting oneself from phishing schemes, particularly ones
+using urgency tactics.

@@ -1,0 +1,9 @@
+DNS Spoof Scenario Description:
+
+On 01 August 2024, a series of incidents were recorded by various network and system monitoring tools, highlighting irregularities in network traffic and DNS activity. These events were flagged by systems such as the Intrusion Detection System (IDS), DNS servers, network firewalls, and performance monitoring tools.
+
+Throughout the day, unusual traffic patterns, inconsistent DNS responses, and unexpected behaviours were observed. Some incidents reported delays in DNS query responses and increased latency, while others involved anomalous IP addresses and unexpected outbound traffic. These occurrences were identified during routine network monitoring and subsequently escalated for further investigation.
+
+The Incident Response (IR) and Digital Forensics (DF) teams were tasked with gathering relevant information from multiple sources, including DNS server logs, firewall records, and system performance metrics. This information was extracted, organised, and documented to facilitate a deeper examination of the reported irregularities.
+
+The timeline of events includes a combination of warnings, errors, and critical alerts, each requiring detailed analysis to uncover the underlying causes. The data collected provides a basis for further investigation by specialised tools.

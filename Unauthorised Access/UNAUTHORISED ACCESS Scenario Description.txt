@@ -1,0 +1,7 @@
+Unauthorised Access Scenario Description:
+
+On 15th September 2016 at 02:15 AM, a mid-sized retail company, RetailWare, detected unauthorised access attempts into its internal database server through its intrusion detection system (IDS). The rule triggering the alarm was designed to monitor any inbound traffic from blacklisted IP addresses known for malicious activity.
+
+The system flagged multiple access attempts from IP address 203.0.113.45, which was not authorised for any legitimate activity within the company's network. These attempts aimed at exploiting the server’s RDP service, which had several known vulnerabilities. The security team immediately began monitoring and collecting logs to assess the breach.
+
+The timeline of events includes a combination of warnings, errors, and critical alerts, each requiring detailed analysis to uncover the underlying causes. The data collected provides a basis for further investigation by specialised tools.

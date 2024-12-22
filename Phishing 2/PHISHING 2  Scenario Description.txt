@@ -1,0 +1,21 @@
+Phishing 2 Scenario Description: 
+
+TechCorp has a strict policy prohibiting employees from responding to or sending emails outside of trusted domains.
+
+Restrictions: Public domains such as @hotmail, @gmail, @outlook, etc., are restricted.
+
+Policy: Employees must not respond to urgent emails from untrusted domains.
+
+Permitted Communications: Security-approved emails and communications from verified entities are permitted.
+
+Investigation: All emails received during the suspected phishing period are collected for investigation.
+
+Description: On 3 December 2023, Jessica Johnson, an employee at TechCorp, was targeted in a phishing attack.
+
+The emails, sent between 09:00 and 17:00, appeared to be from a trusted support service, attempting to convince Jessica to verify her account information. TechCorp’s policy restricts communication with unverified domains, allowing only trusted sources. The investigation involved collecting and categorising all suspicious emails, which were assessed based on:
+
+-Email domains
+-Sender and receiver details: Information about the email addresses and identities involved.
+-IP addresses: Tracking the origin and destination of the emails.
+-Sender and receiver sentiment, context, content, and intent: Analysis of the communication style and intent behind the emails.
+-Timestamps: Recording when the emails were sent and received.

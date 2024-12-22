@@ -1,0 +1,100 @@
+What was the Event ID for the logon attempt that failed at 02:15:05 on 09/15/2016?,"Response: 
+
+The Event ID for the logon attempt that failed at 02:15:05 on 09/15/2016 is:
+
+4625."
+Which event reported a failure in system file integrity at 02:16:37 on 09/15/2016?,"Response: 
+
+The event reported a failure in system file integrity at 02:16:37 on 09/15/2016."
+What was the Task Category for Event ID 4723 that occurred at 02:17:05 on 09/15/2016?,"Response: 
+
+Task Category for Event ID 4723 that occurred at 02:17:05 on 09/15/2016 is:
+
+ Account Management"
+"At what time did Event ID 1102, reporting an audit log clearance, occur on 09/15/2016?","Response: 
+
+Based on the provided context, Event ID 1102, reporting an audit log clearance, occurred at one of two times:
+
+* 2016/09/15 02:35:00
+* 2016/09/15 02:18:05"
+Which Event ID corresponds to a pre-authentication failure at 02:22:30 on 09/15/2016?,"Response: 
+
+The Event ID that corresponds to a pre-authentication failure at 02:22:30 on 09/15/2016 is:
+
+Event ID 4771."
+"What was the severity level of Event ID 4776, which occurred at 02:27:15 on 09/15/2016?","Response: 
+
+According to the Event ID 4776 in the given context, its severity level is:
+
+Warning. 
+
+This occurred at 02:27:15 on 09/15/2016."
+Which Event ID reported a password reset attempt at 02:24:12 on 09/15/2016?,"Response: 
+
+According to the Event IDs, the password reset attempt at 02:24:12 on 09/15/2016 is reported by Event ID **4724**."
+What was the source of the Event ID 5031 that occurred at 02:24:45 on 09/15/2016?,"Response: 
+
+The source of the Event ID 5031 that occurred at 02:24:45 on 09/15/2016 is:
+
+Security (Source: Security)"
+Which event had a severity level of 'Warning' and occurred at 02:30:01 on 09/15/2016?,"Response: 
+
+The event with a severity level of 'Warning' that occurred at 02:30:01 on 09/15/2016 is:
+
+Event ID: 4771
+Details: Pre-authentication failed
+Level: Warning
+Date and Time: 2016/09/15 02:30:01
+Source: Security
+Task Category: Credential Validation"
+What is the Task Category for Event ID 5031?,"Response: 
+
+The Task Category for Event ID 5031 is Firewall."
+Which Event ID reported an incorrect credentials logon failure at 02:36:15 on 09/15/2016?,"Response: 
+
+The Event ID that reported an incorrect credentials logon failure at 02:36:15 on 09/15/2016 is:
+
+Event ID: 4776"
+What was the Event ID for the logon attempt that failed at 02:30:45 on 09/15/2016?,"Response: 
+
+The Event ID for the logon attempt that failed at 02:30:45 on 09/15/2016 is 4625."
+What was the severity level of Event ID 4625 at 02:37:45 on 09/15/2016?,"Response: 
+
+The severity level of Event ID 4625 at 02:37:45 on 09/15/2016 was Warning."
+Which event had the source of 'System' and reported system file integrity failure at 02:32:07 on 09/15/2016?,"Response: 
+
+The event that had the source of 'System' and reported system file integrity failure at 02:32:07 on 09/15/2016 was:
+
+Event ID: 5038, Details: Integrity of system file failed, Level: Error, Date and Time: 2016/09/15 02:32:07, Source: System, Task Category: System Integrity"
+What Task Category is associated with Event ID 4723?,"Response: 
+
+According to the provided context, Event ID 4723 is associated with Task Category: Account Management."
+Which Event ID corresponds to a logon attempt with explicit credentials at 02:23:35 on 09/15/2016?,"Response: 
+
+The Event ID that corresponds to a logon attempt with explicit credentials at 02:23:35 on 09/15/2016 is:
+
+Event ID: 4648"
+What was the level of severity for Event ID 1102 occurring at 02:35:00 on 09/15/2016?,"Response: 
+
+For Event ID 1102 occurring at 02:35:00 on 09/15/2016,
+
+The level of severity was Critical."
+At what time did the password reset attempt occur for Event ID 4724?,"Response: 
+
+The password reset attempt for Event ID 4724 occurred at:
+
+02:24:12 on September 15, 2016."
+What details are associated with Event ID 4771 occurring at 02:34:30 on 09/15/2016?,"Response: 
+
+The details associated with Event ID 4771 occurring at 02:34:30 on 09/15/2016 are:
+
+* Pre-authentication failed
+* Level: Warning
+* Date and Time: 2016/09/15 02:34:30
+* Source: Security
+* Task Category: Credential Validation"
+Which Event ID reported a firewall service error at 02:36:30 on 09/15/2016?,"Response: 
+
+The Event ID that reported a firewall service error at 02:36:30 on 09/15/2016 is:
+
+5031"

@@ -1,0 +1,14 @@
+SYN Flood Scenario Description:
+
+On 8 January 2024, between 14:03:25 and 14:37:20, NetPlus identified a series of unusual network events that disrupted standard operations. These anomalies were primarily characterised by a high volume of Synchronise (SYN) requests, resulting in intermittent service degradation across the network. While the root cause remains unclear, the observed traffic patterns warranted a detailed investigation to assess potential risks and identify any underlying issues.
+
+The NetPlus Incident Response (IR) team initiated an analysis of the affected systems and collected relevant event logs from various devices and monitoring tools, including firewalls, network scanners, and Intrusion Detection Systems (IDS). The gathered data included critical attributes such as:
+
+-Event ID
+-Event Details
+-Event Level
+-Event Timestamp (Date and Time)
+-Event Source
+-Task Category
+-Device
+Key findings from this data set include event details indicating service interruptions, elevated SYN packet volumes, and abnormal network behaviour. The investigation will focus on these attributes to discern patterns and evidence of potential threats or operational anomalies.
